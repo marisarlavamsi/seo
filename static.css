@@ -1,0 +1,93 @@
+.headermenu{
+    background-color: rgb(14, 14, 12);
+    text-align: center;
+    padding: 10px;
+}
+
+.div1{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://wallpapers.com/images/hd/tesla-silver-logo-jhouaskhywxacej1.webp");
+    background-size: cover;
+    display: flex;
+}
+.a1{
+    margin-right: 20px;
+    color: azure;
+}
+
+.div2 {
+    position:absolute;
+    top:10vh;
+    left:40vw;
+    font-size: 60px;
+    text-align: center;
+    color: azure;
+}
+.p1{
+    color: aliceblue;
+}
+.div3{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://wallpapers.com/images/hd/nikola-tesla-glowing-bulb-y6q5tim8e0abvm3e.webp");
+    display: flex;
+}
+.div4{
+    position: absolute;
+    top: 100vh;
+    color: aliceblue;
+    padding: 60px;
+}
+.div5{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://wallpapers.com/images/hd/tesla-model-3-black-desktop-4i26nn4v3sabxgwg.webp");
+    background-size: cover;
+}
+.div6{
+    position:absolute;
+    top:200vh;
+    color: azure;
+    padding: 50px;
+}
+.div7{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://wallpapers.com/images/hd/nikola-tesla-glowing-bulb-y6q5tim8e0abvm3e.webp");
+    background-size: cover;
+}
+.div8{
+    position:absolute;
+    top:304vh;
+    color: azure;
+    padding: 40px;
+}
+.div9{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://wallpapers.com/images/hd/nikola-tesla-word-cloud-mwisdk4g27uo8cmp.webp");
+    background-size: cover;
+}
+.contact{
+    position: absolute;
+    text-align: center;
+    padding: 30px;
+    border: 1px solid rgba(4, 4, 4, 0.632);
+    border-width: 50px;
+    background-color: rgba(8, 8, 8, 0.644);
+}
+.div10 {
+    position: absolute;
+    top:403vh;
+    color:azure;
+    padding: 30px;
+}
+.div11 {
+    padding-top: 200px;
+}
+.div12 {
+    text-align: left;
+    color: white;
+}
+
